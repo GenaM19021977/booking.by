@@ -1,0 +1,35 @@
+1. Установка необходимых библиотек
+pip install requests
+pip install pandas
+pip install lxml
+pip install Django
+pip install djangorestframework
+pip install markdown
+pip install django-filter
+pip install django-cors-headers
+pip install beautifulsoup4
+pip install django-rename-app
+pip install djangorestframework-simplejwt
+pip install psycopg2
+
+
+2 .Создаем проект  Django
+django-admin startproject apartment
+python manage.py startapp app
+python .\manage.py makemigrations app
+python .\manage.py migrate
+python .\manage.py createsuperuser
+python .\manage.py runserver
+
+
+3. Работа с пакетами для React
+npm install --g create-react-app
+npm install styled-components atomic-layout
+npm install react-bootstrap bootstrap
+npm install react-router-dom
+
+npx create-react-app boocines_react
+npm start
+
+4. Работа с гитом
+git clone [linc] скачать репозиторий с гитхаб по ссылке
